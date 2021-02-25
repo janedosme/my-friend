@@ -1,15 +1,15 @@
 body{
    margin: 0;
    font-family: 'Raleway', sans-serif;
-   font-size: 20px;
-   line-height: 25px;
+   font-size: 30px;
+   line-height: 35px;
    background-color: #4e7c8a;
 }
 
 header{
     background-color: beige;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 55px;
     padding-bottom: 50px;
 }
 
@@ -20,30 +20,30 @@ h1, h2{
 header h1{
     
     color: #4e7c8a;
-    font-size: 50px;
+    font-size: 55px;
 }
 
 header img{
-    border-radius: 170px;
+    border-radius: 150px;
     width: 300px;
     border: 10px solid #4e7c8a;
 }
 
 main{
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
     padding: 20px;
 }
 
 main img{
-    max-width: 100%;
+    max-width: 300%;
     
-    width: 300px;
+    width: 400px;
     
 }
 
 h2{
-    font-size: 30px;
+    font-size: 35px;
     color: beige;
     margin: 40px 0 10px;
 }
@@ -68,7 +68,7 @@ footer p{
 }
 
 p.caption{
-    color: #999;
+    color: rgb(179, 169, 169);
     font-style: italic;
     margin-top: 0%;
     
